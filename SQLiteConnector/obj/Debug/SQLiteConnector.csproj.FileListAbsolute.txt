@@ -1,0 +1,14 @@
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\SQLiteConnector.exe.config
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\SQLiteConnector.exe
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\SQLiteConnector.pdb
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.csprojResolveAssemblyReference.cache
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.Properties.Resources.resources
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.csproj.GenerateResource.Cache
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.exe
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.pdb
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\Iesi.Collections.dll
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\NHibernate.dll
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\NHibernate.Validator.dll
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\System.Data.SQLite.dll
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\obj\Debug\SQLiteConnector.MainForm.resources
+D:\Users\ggorecki\Desktop\Projects\SQLiteConnector\SQLiteConnector\bin\Debug\hibernate.cfg.xml
